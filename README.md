@@ -21,7 +21,7 @@ This Specialization builds on the success of the Python for Everybody course and
 ## 🏆 Certificate Details
 
 - **Certificate**: Python for Everybody Specialization
-- **Issued By**: University of Machigan via Coursera
+- **Issued By**: University of Michigan via Coursera
 - **Duration**: 4 comprehensive courses + Capstone Project
 - **Tools Mastered**: Python, Jupyter and Anaconda
 
