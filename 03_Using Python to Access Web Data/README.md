@@ -25,8 +25,3 @@ This course will show how one can treat the Internet as a source of data.  We wi
 
 * **WEEK-6 : JSON and the REST Architecture (Chapter 13)**
 > In this module, we work with Application Program Interfaces / Web Services using the JavaScript Object Notation (JSON) data format.
-
-## Reference
-> [Coursera](https://www.coursera.org/learn/python-network-data?specialization=python)
-
-> [Achievement Certificate](https://github.com/Ashleshk/Python-For-Everybody-Coursera/blob/master/Course-3%20using%20Python%20to%20access%20web%20data.pdf)
