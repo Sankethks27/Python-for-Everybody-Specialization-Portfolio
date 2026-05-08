@@ -40,8 +40,3 @@ In the capstone, students will build a series of applications to retrieve, proce
 
 **WEEK-7 : Visualizing new Data Sources (Project)**
 > This week you will discuss the analysis of your data to the class. While many of the projects will result in a visualization of the data, any other results of analyzing the data are equally valued, so use whatever form of analysis and display is most appropriate to the data set you have selected.
-
-## Reference
-> [Coursera](https://www.coursera.org/learn/python-data-visualization)
-
-> [Achievement Certificate](https://github.com/Ashleshk/Python-For-Everybody-Coursera/blob/master/Course-5%20Capstone%20Retriveing%20Processing%20and%20Visulaisation%20data.pdf)
