@@ -28,8 +28,3 @@ This course will introduce students to the basics of the Structured Query Langua
 
 **WEEK-5 : Databases and Visualization**
 > In this section, we put it all together, retrieve and process some data and then use the Google Maps API to visualize our data.
-
-## Reference
-> [Coursera](https://www.coursera.org/learn/python-databases?specialization=python)
-
-> [Achievement Certificate](https://github.com/Ashleshk/Python-For-Everybody-Coursera/blob/master/Course-4%20Using%20Databases%20with%20Python.pdf)
