@@ -27,8 +27,3 @@ As we want to solve more complex problems in Python, we need more powerful varia
 
 * **WEEK-7 : Graduation**
 > To celebrate your making it to the halfway point in our Python for Everybody Specialization, we welcome you to attend our online graduation ceremony. It is not very long, and it features a Commencement speaker and very short commencement speech.
-
-## Reference
-> [Coursera](https://www.coursera.org/learn/python-data?specialization=python)
-
-> [Achievement Certificate](https://github.com/Ashleshk/Python-For-Everybody-Coursera/blob/master/Course-2-%20Python%20Data%20Structure.pdf)
