@@ -27,8 +27,3 @@ This course aims to teach everyone the basics of programming computers using Pyt
 > This is a relatively short chapter. We will learn about what functions are and how we can use them. The programs in the first chapters of the book are not large enough to require us to develop functions, but as the book moves into more and more complex programs, functions will be an essential way for us to make sense of our code.
 
 * **WEEK-7 : Chapter Five: Loops and Iteration**
-
-## Reference
-> [Coursera](https://www.coursera.org/learn/python?specialization=python#syllabus)
-
-> [Achievement Certificate](https://github.com/Ashleshk/Python-For-Everybody-Coursera/blob/master/Course-1-%20getting%20started%20with%20python.pdf)
